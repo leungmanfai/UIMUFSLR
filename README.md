@@ -1,4 +1,4 @@
-# UIMUFSLR: Unbalanced Incomplete Multi-view Unsupervised Feature Selection with Low-redundancy Constraint in Low-Dimensional Space
+# UIMUFSLR: Unbalanced Incomplete Multiview Unsupervised Feature Selection with Low-redundancy Constraint in Low-Dimensional Space
 
 This is a sample code for the UIMUFSLR algorithm, which has been published in IEEE Transactions on Industrial Informatics.
 
